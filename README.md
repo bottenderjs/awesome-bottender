@@ -28,5 +28,8 @@ A collection of awesome things regarding the Bottender ecosystem.
 
 ### Example Apps
 
+- [tw-stock-info-bot](https://github.com/Yoctol/tw-stock-info-bot)
+- [us-stock-info-bot](https://github.com/Yoctol/us-stock-info-bot)
+
 ### Real apps
 - [Vocabulary Titan](https://github.com/tigercosmos/vocabulary-titan) - Chatbot for searching vocabulary on mainstream dictionaries 
